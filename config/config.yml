@@ -1,0 +1,6 @@
+app:
+  name: "GoServer"
+
+server: 
+  host: "localhost"
+  port: "8080"
